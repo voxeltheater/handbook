@@ -1,6 +1,6 @@
 # Cables
 
-This document describes the cabling standards used at The Voxel. It can be used as a reference when ordering new components or performing maintenance on existing systems.
+This document describes the cabling standards used at The Voxel.
 
 # Color Code
 
@@ -30,6 +30,8 @@ The Voxel follows the recommendation of the Professional Audio Manufacturers All
 ---
 
 # Cable Construction
+
+This information can be used as a reference when ordering new components or performing maintenance on existing systems.
 
 ### Labeling
 
