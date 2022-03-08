@@ -17,8 +17,8 @@ The overall goal of this user manual is to write thorough and friendly documenta
 
 ### Notes
 
-- [Tech Notes](tech-notes/readme.md) (how to use our equipment)
-- [Space Notes](space-notes/readme.md) (how to use our spaces)
+- [Tech Notes](tech/readme.md) (how to use our equipment)
+- [Space Notes](space/readme.md) (how to use our spaces)
 
 ## Introduction
 
