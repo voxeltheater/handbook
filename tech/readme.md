@@ -18,5 +18,5 @@ Guides on how to use the technical equipment and tools at The Voxel.
 
 - [Overview](lx-overview.md)
 - [General Electrical](electrical.md)
-- [Light Instruments](lx-instruments.md)
+- [Light Instruments](lx-instruments.md) ([ColorSource PAR](lx-colorsource-par.md), [Source Four LED Series 2](lx-series-2.md))
 - [Lighting Network](lx-network.md)
