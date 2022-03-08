@@ -30,7 +30,7 @@ Once the fixture is in DMX mode, press and hold the `Mode` button for 5 seconds.
 
 
 ### Inventory
-- `13` ColorSource PAR Instruments
+- `10` ColorSource PAR Instruments
 - `10` Medium Round Lenses (50&deg;)
 - `10` Medium Oval Lenses (32&deg;x61&deg;)
 
