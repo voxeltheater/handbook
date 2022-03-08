@@ -109,7 +109,7 @@ Our Facilities Manager can schedule the HVAC system to turn on before you arrive
 ## Internet
 
 ### WiFi Connection
->Username `The Voxel`<br>Password `HelloBaltimore`
+>WiFi Name `The Voxel`<br>Password `HelloBaltimore`
 
 The Voxel internet connection is available via wireless and wired access. We have hardwired ethernet ports throughout the building (including at grid level), which each run to a central patch bay. Every ethernet port can therefore be easily routed to one of 2 distinct networks: `Internet` and `Theatre`. The Theatre network is set up to manage Dante, Art-Net, and show control traffic.
 
