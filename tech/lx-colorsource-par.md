@@ -7,12 +7,12 @@
 - PowerCON In/Out
 
 
-### DMX Personality
-To change the personality, ensure the instrument is in DMX mode. The fixture is in DMX mode if the display does not have a `:` on it. If it's not in DMX mode, press the `Mode` button to switch.
+### DMX Profile
+To change the profile, ensure the instrument is in DMX mode. The fixture is in DMX mode if the display does not have a `:` on it. If it's not in DMX mode, press the `Mode` button to switch.
 
 Once the fixture is in DMX mode, press and hold the `Mode` button for 5 seconds. Then press the `Up`/`Down` buttons until the desired mode is selected. Then press `Mode` again to save the change.
 
-*When using QLab as the lighting console, we recommend operating in 6-channel Direct (`Dir`) Mode.*
+*When using QLab as the lighting console, we recommend selecting the 6-channel Direct (`Dir`) Profile.*
 
 | Address | Function  |
 | ------- | --------- |
