@@ -78,9 +78,7 @@ The fire alarm system is activated by heat sensors in our ventillation system, i
 
 The Voxel is equipped with an RFID tag security and entry system. Guests have access to the venue by way of a designated key fob and pin code. Generally speaking, and subject to the terms of our official agreement with guest artists, you may access the venue at any time of the day or night during your time here. You are responsible for disarming the security system upon arrival, securing the building while occupied, and arming and securing the building upon exit. Securing the building includes ensuring all doors or access points are fully closed and all door locks or latches are engaged.
 
-If you forget your fob or pin code, Voxel staff can remotely open the venue for you.
-
-There is a $10 per fob replacement fee in the event a fob is lost or not returned.
+> If you forget your fob or pin code, Voxel staff can remotely open the venue for you. There is a $10 per fob replacement fee in the event a fob is lost or not returned.
 
 
 ### Accessibility
