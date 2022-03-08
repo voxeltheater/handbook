@@ -8,7 +8,8 @@
 
 ### DMX Profile
 
-*When using QLab as the lighting console, we recommend selecting the 5-channel (`RGB`) Profile.* More advanced direct modes are not color-calibrated so different instruments will not match.
+*When using QLab as the lighting console, we recommend selecting the 5-channel (`RGB`) Profile.*
+Direct modes (15-channel) are not color-calibrated so different instruments will not match!
 
 | Address | Function  |
 | ------- | --------- |
