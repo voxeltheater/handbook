@@ -34,7 +34,7 @@ Direct modes (15-channel) are not color-calibrated so different instruments will
 <img width="40%" align="right" src="https://user-images.githubusercontent.com/919746/157324893-d605b17f-6312-4d54-9519-cb449258e73e.png">
 
 ## Standard Configuration
-The Series 2 has a lot of configurable settings! After every Voxel project, we restore them to the following settings using a Swisson RDM tool. This RDM Personality is called `024 - RGB Strobe`.
+The Series 2 has a lot of configurable settings! After every Voxel project, we restore them to the following settings using a Swisson RDM tool. After using the tool to `Set Factory Default`, we change the RDM personality to `024 - RGB Strobe`.
 
 ### DMX Settings
 | Setting | Value  |
@@ -42,14 +42,14 @@ The Series 2 has a lot of configurable settings! After every Voxel project, we r
 | DMX Start Address | 1 |
 | DMX Profile | RGB |
 | Strobe | On |
-| Data Loss | HLL-4ever |
+| Data Loss | Instant |
 | Plus Seven | Off |
 | Fan Mode | Auto |
 
 ### LED Settings
 | Setting | Value  |
 | --- | --- |
-| Output | Protected |
+| Output | Regulated |
 | Curve | Standard |
 | Output Freq | 1200 |
 | Red Shift | Off |
