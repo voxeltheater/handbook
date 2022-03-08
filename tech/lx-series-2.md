@@ -31,7 +31,5 @@ We also recommend setting the `White Point` to `3200K`, which can be found under
 
 ### Images
 
-<img align="left" width="45%" src="https://etc.widen.net/content/pqeichducn/png/ColorSource_PAR_Lime.png?collectionShareName=135tit0n&x.app=portals&x.portal_shortcode=wjq8djnw&w=600">
-
-<img align="right" width="45%" src="https://etc.widen.net/content/ynon4gbt2s/png/Colorsource_Par_back_XLR.png?collectionShareName=135tit0n&x.app=portals&x.portal_shortcode=wjq8djnw&w=600">
+<img align="left" width="45%" src="https://user-images.githubusercontent.com/919746/157319791-3e77a0cc-4302-43a9-83f8-3e45f767221d.png">
 
