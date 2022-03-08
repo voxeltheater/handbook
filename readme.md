@@ -71,6 +71,9 @@ The Voxel has four emergency exits- the front doors, two backstage, and one in t
 #### Fire Alarm
 The fire alarm system is activated by heat sensors in our ventillation system, in addition to pull stations throughout the building. We do not have "smoke detectors" that can be triggered by smoke/haze. If the alarm is activated, emergency lighting will turn on throughout the building.
 
+#### First Aid
+A large first aid kit is stored in the Green Room microwave cabinet. If you use something from it, please let out Facilities Manager know so they can re-stock.
+
 
 ## Access
 
