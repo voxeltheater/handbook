@@ -32,5 +32,29 @@ We also recommend setting the `White Point` to `3200K`, which can be found under
 
 ### Images
 
-<img align="left" width="45%" src="https://user-images.githubusercontent.com/919746/157319791-3e77a0cc-4302-43a9-83f8-3e45f767221d.png">
+<img width="45%" src="https://user-images.githubusercontent.com/919746/157319791-3e77a0cc-4302-43a9-83f8-3e45f767221d.png">
+<img width="45%" src="https://user-images.githubusercontent.com/919746/157324893-d605b17f-6312-4d54-9519-cb449258e73e.png">
+
+
+## Standard Configuration
+The Series 2 has a lot of configurable settings! After every Voxel project, we restore them to the following settings using a Swisson RDM tool. This RDM Personality is called `024 - RGB Strobe`.
+
+### DMX Settings
+| Setting | Value  |
+| --- | --- |
+| DMX Start Address | 1 |
+| DMX Profile | RGB |
+| Strobe | On |
+| Data Loss | HLL-4ever |
+| Plus Seven | Off |
+| Fan Mode | Auto |
+
+### LED Settings
+| Setting | Value  |
+| --- | --- |
+| Output | Protected |
+| Curve | Standard |
+| Output Freq | 1200 |
+| Red Shift | Off |
+| White Point | 3200K |
 
