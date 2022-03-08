@@ -6,8 +6,9 @@
 - 5-Pin DMX In/Out
 - PowerCON In/Out
 
+
 ### DMX Personality
-When using QLab as the lighting console, we recommend operating the ColorSource PARs in 6-channel Direct Mode.
+When using QLab as the lighting console, we recommend operating in 6-channel Direct Mode.
 
 | Address | Function  |
 | ------- | --------- |
@@ -19,7 +20,16 @@ When using QLab as the lighting console, we recommend operating the ColorSource 
 | 6       | Strobe    |
 
 
-<img align="left" width="40%" src="https://etc.widen.net/content/pqeichducn/png/ColorSource_PAR_Lime.png?collectionShareName=135tit0n&x.app=portals&x.portal_shortcode=wjq8djnw&w=600">
+### Inventory
+- `20` ColorSource PAR Instruments
+- `10` Medium Round Lenses (50&deg;)
+- `10` Medium Oval Lenses (32&deg;x61&deg;)
+- `10` Wide Round Lenses (77&deg;)
 
-<img align="right" width="40%" src="https://etc.widen.net/content/ynon4gbt2s/png/Colorsource_Par_back_XLR.png?collectionShareName=135tit0n&x.app=portals&x.portal_shortcode=wjq8djnw&w=600">
+
+### Images
+
+<img align="left" width="45%" src="https://etc.widen.net/content/pqeichducn/png/ColorSource_PAR_Lime.png?collectionShareName=135tit0n&x.app=portals&x.portal_shortcode=wjq8djnw&w=600">
+
+<img align="right" width="45%" src="https://etc.widen.net/content/ynon4gbt2s/png/Colorsource_Par_back_XLR.png?collectionShareName=135tit0n&x.app=portals&x.portal_shortcode=wjq8djnw&w=600">
 
