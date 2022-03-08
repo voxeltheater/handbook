@@ -18,5 +18,5 @@ Guides on how to use the technical equipment and tools at The Voxel.
 
 - [Overview](lx-overview.md)
 - [General Electrical](electrical.md)
-- [Light Fixtures](lx-fixtures.md)
+- [Light Instruments](lx-instruments.md)
 - [Lighting Network](lx-network.md)
