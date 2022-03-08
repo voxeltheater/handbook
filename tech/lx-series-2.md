@@ -19,7 +19,7 @@ Direct modes (15-channel) are not color-calibrated so different instruments will
 | 4       |           |
 | 5       | Strobe    |
 
-We also recommend setting the `White Point` to `3200K`, which can be found under `Advanced Settings` > `LED Settings`.
+We also recommend setting the `White Point` to `3200K`, which can be found under `Advanced Settings` > `LED Settings`. This makes the light appear closer to a classic Source Four.
 
 
 ### Inventory
