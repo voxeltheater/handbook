@@ -1,4 +1,6 @@
 # Amplifiers
+All of The Voxel's speaker inventory requires a separate amplifier to power it. Self-powered speakers are quite common, but we don't have any in inventory. Our amps are designed to pair with our speakers, so the amp can tune its output specifically for the attached speaker.
+
 The Voxel has two types of amplifiers. Amp outputs may be patched to any grid connection. The amps are mounted in the control rack and may not be removed. 
 
 &nbsp;
