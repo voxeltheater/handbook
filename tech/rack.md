@@ -1,5 +1,5 @@
 # Control Rack
-The Control Rack is the central hub of all technology in the Voxel.
+The Control Rack is the central hub of all technology in The Voxel. Here's what's in it:
 
 - Network switches
 - Network patch bay
