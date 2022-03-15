@@ -8,6 +8,13 @@
 - (3) 20amp circuits in green room and dressing rooms
 
 # Standard Outlets with Isolated Ground (5-20R "Edison")
+- (6) 20amp circuits in grid
+- (7) 20amp circuits on stage floor
+- (2) 20amp circuits in lobby grid
+- (2) 20amp circuits on lobby floor
+- (1) 20amp circuit in green room
+
+Both above lists denote individual circuits/breakers, not numbers of outlets available. Some circuits have multiple outlets.
 
 
 # Company Switches
