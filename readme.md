@@ -50,7 +50,7 @@ The theater was built in 1946 and was a popular destination for moviegoers throu
 - Christopher Ashworth, Owner - <chris@voxel.org>
 
 
-## Please And Thank You
+# Please And Thank You
 
 - Please do not drive the scissor lift on the ramp. The ramp is not rated to hold the lift!
 - Please do not drink and operate machinery or equipment.
