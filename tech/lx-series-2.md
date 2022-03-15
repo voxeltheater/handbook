@@ -24,10 +24,10 @@ Direct modes (15-channel) are not color-calibrated so different instruments will
 
 ### Inventory
 - `26` Source Four LED Lustr 2
-- `8` 50&deg; EDLT Lenses
-- `12` 36&deg; Standard Lenses
-- `14` 26&deg; Standard Lenses
-- `8` 19&deg; EDLT Lenses
+- `8` 50&deg; 🟨 EDLT Lenses
+- `12` 36&deg; 🟦 Standard Lenses
+- `14` 26&deg; ⬛️ Standard Lenses
+- `8` 19&deg; 🟥 EDLT Lenses
 
 
 
