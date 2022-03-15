@@ -14,4 +14,4 @@ The Control Rack is the central hub of all technology in The Voxel. Here's what'
 The rack is located in the mezzanine, which is only accessible by Voxel staff. Please let the TD know what patches you need set up.
 
 ### Further Reading
-[Network](network.md)
+- [Network](network.md)
