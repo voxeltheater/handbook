@@ -2,9 +2,10 @@
 
 ## Work Lights
 Wall switches for the work lights are located on the East wall, at three separate locations.
-- Backstage by roll door
-- Backstage near lobby railing
-- Lobby near stairs to mezzanine
+- East wall, by roll door
+- East wall, stage level near lobby railing
+- East wall, lobby level near stairs to mezzanine
+- South wall, stage level at bottom of ramp
 
 At this time, the work lights can only be controlled from these stations. We're working on it.
 
