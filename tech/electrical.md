@@ -18,8 +18,9 @@ Both above lists denote individual circuits/breakers, not numbers of outlets ava
 
 
 ## Company Switches
-- (2) 400amp Company Switch (one in mezzanine, one on stage floor)
-- (1) 100amp Company Switch with Isolated Ground (stage floor)
+- 400amp Company Switch on stage floor
+- 400amp Company Switch in mezzanine
+- 100amp Company Switch with Isolated Ground on stage floor
 
 Company Switches are a way to access large amounts of electrical power for equipment such as dimmer racks. Please consult the TD if you have equipment to connect to a Company Switch.
 
