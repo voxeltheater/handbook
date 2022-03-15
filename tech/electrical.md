@@ -22,7 +22,7 @@ Both above lists denote individual circuits/breakers, not numbers of outlets ava
 - 400amp Company Switch in mezzanine
 - 100amp Company Switch with Isolated Ground on stage floor
 
-Company Switches are a way to access large amounts of electrical power for equipment such as dimmer racks. All our Company Switches have Cam-Type connections as well as lug terminals. There are no have flipped grounds/neutrals. Please consult the TD if you have equipment to connect to a Company Switch.
+Company Switches are a way to access large amounts of electrical power for equipment such as dimmer racks. All our Company Switches have Cam-Type connections as well as lug terminals. There are no flipped grounds/neutrals. Please consult the TD if you have equipment to connect to a Company Switch.
 
 ## Extension Cords
 Extension cords are stored in the black road case labeled `Extension Cords`. Cables are color-coded by length, see [Cable Color Code](cables.md#color-code). The road case is stored backstage near the alley doors.
