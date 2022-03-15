@@ -28,12 +28,13 @@ Once the fixture is in DMX mode, press and hold the `Mode` button for 5 seconds.
 <img align="right" width="40%" src="https://etc.widen.net/content/ynon4gbt2s/png/Colorsource_Par_back_XLR.png?collectionShareName=135tit0n&x.app=portals&x.portal_shortcode=wjq8djnw&w=600">
 
 
-
 ### Inventory
-- `10` ColorSource PAR Instruments
-- `10` Medium Round Lenses (50&deg;)
-- `10` Medium Oval Lenses (32&deg;x61&deg;)
 
+| Quan | Thing                      |
+| --- | --------------------------- |
+| 10  | ColorSource PAR  |
+| 10  | 🟨 Medium Round Lenses (50&deg;)      |
+| 10  | 🟨🟨 Medium Oval Lenses (32&deg;x61&deg;)  |
 
 
 
