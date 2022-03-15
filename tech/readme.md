@@ -15,7 +15,7 @@ Guides on how to use the technical equipment and tools at The Voxel.
 - [d&b DS100](audio-ds100.md)
 - [Amplifiers](audio-amplifiers.md) ([d&b D20](audio-d20.md), [d&b 10D](audio-10d.md)) 
 
-### Lighting
+### ✅ Lighting
 
 - [Overview](lx-overview.md)
 - [General Electrical](electrical.md)
