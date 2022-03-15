@@ -35,6 +35,8 @@ By day, The Voxel is the teaching center and research laboratory of Figure 53, a
 
 By night, The Voxel is a theater, incubator, and resource for performing artists in Baltimore and across the country.
 
+The performance space is 50' by 36'-6", and has a 20' grid.
+
 
 ### History
 
@@ -62,16 +64,16 @@ The theater was built in 1946 and was a popular destination for moviegoers throu
 
 ## Safety
 
-#### Building Capacity
+### Building Capacity
 The Voxel has a strict maximum occupancy of 300 people, including performers and crew. Most projects at The Voxel are well under this limit.
 
-#### Fire Exits
+### Fire Exits
 The Voxel has four emergency exits- the front doors, two backstage, and one in the Green Room. If stage curtains block visibility to exit signs, we will provide additional signs.
 
-#### Fire Alarm
-The fire alarm system is activated by heat sensors in our ventillation system, in addition to pull stations throughout the building. We do not have "smoke detectors" that can be triggered by smoke/haze. If the alarm is activated, emergency lighting will turn on throughout the building.
+### Fire Alarm
+The fire alarm system is activated by heat sensors in our ventillation system, in addition to pull stations throughout the building. We do not have "smoke detectors" that can be triggered by smoke/haze machines. If the alarm is activated, emergency lighting will turn on throughout the building.
 
-#### First Aid
+### First Aid
 A large first aid kit is stored in the Green Room microwave cabinet. If you use something from it, please let out Facilities Manager know so they can re-stock.
 
 
@@ -95,11 +97,11 @@ The private mezzanine level is not accessible except by stairs.
 
 The Voxel does not have a dedicated parking lot, but there is ample street parking near the theater. Street parking is FREE during [days and times].
 
-`[map of street parking]`
+`[ToDo: map of street parking]`
 
 There is LIMITED parking for approximately 4 vehicles directly behind 2443 Maryland Avenue, which is the building directly across from the theater’s stage door. PLEASE DO NOT PARK behind any other building on Maryland Avenue; all other parking areas along the alley are reserved for the people who rent and own those row houses. Please be a good neighbor while you are here, and respect other people’s space.
 
-`[photo of parking lot]`
+`[ToDo: photo of parking lot]`
 
 
 ## Heating and Cooling
