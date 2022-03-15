@@ -1,22 +1,23 @@
-Total available power
-What does 3 phase power mean, and why might you care?
+# Electrical
 
-Electrical outlets
-Reference photo
-AV vs RP: What are they? Which one should you use?
-How much power is available through the electrical outlets?
+# Standard Outlets (5-20R "Edison")
+- (6) 20amp circuits in grid
+- (3) 20amp circuits on stage floor
+- (2) 20amp circuits in lobby grid
+- (2) 20amp circuits on lobby floor
+- (3) 20amp circuits in green room and dressing rooms
 
-Company Switches
-What are company switches?
-Where are they?
-How much power do they provide?
-What is an example of what equipment could be powered by this?
+# Standard Outlets with Isolated Ground (5-20R "Edison")
 
-Electrical Closet
-What’s in there?
-Who has access?
 
-Electrical Extension Cords
-Where are they?
-How many do we have?
-Color codes
+# Company Switches
+- (2) 400amp Company Switch (one in mezzanine, one on stage floor)
+- (1) 100amp Company Switch with Isolated Ground (stage floor)
+
+Company Switches are a way to access large amounts of electrical power for equipment such as dimmer racks. Please consult the TD if you have equipment to connect to a Company Switch.
+
+# Extension Cords
+Extension cords are stored in the black road case labeled `Extension Cords`. Cables are color-coded by length, see [Cable Color Code](cables.md#color-code). The road case is stored backstage near the alley doors.
+
+# Electrical Closet
+Most electrical breakers are located in the Electrical Closet backstage. It is only accessible to Voxel staff. Please ask the TD if a breaker is tripped.
