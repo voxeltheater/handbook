@@ -9,10 +9,12 @@ There are (8) EtherCON connections available in the grid that are reserved for l
 ## WiFi
 >WiFi Name `The Voxel`<br>Password `HelloBaltimore`
 
-## Ethernet Switches
+## Equipment
+
+### Ethernet Switches
 All traffic on the Theatre network is routed through a pair of Netgear M4300-52G-PoE+ switches. These switches can handle specialized bandwidth-intensive tasks such as NDI Video, as well as handling IP Audio such as Dante, sACN, and Art-Net.
 
 `ToDo: describe the configuration on Theatre network`
 
-## Internet Connection
-The Voxel's Internet service is from Comcast. The advertised speed is `300Mbps download` and `30Mbps upload`. Actual speeds may vary. For reference, YouTube and other streaming services recommend upload speeds of 6 Mbps for streaming HD 1080p video at 30 fps.
+### Internet Connection
+The Voxel's Internet service is from Comcast, though a cable modem. The advertised speed is `300Mbps download` and `30Mbps upload`. Actual speeds may vary. For reference, YouTube and other streaming services recommend upload speeds of 6 Mbps for streaming HD 1080p video at 30 fps.
