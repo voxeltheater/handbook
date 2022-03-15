@@ -1,13 +1,13 @@
 # Electrical
 
-# Standard Outlets (5-20R "Edison")
+## Standard Outlets (5-20R "Edison")
 - (6) 20amp circuits in grid
 - (3) 20amp circuits on stage floor
 - (2) 20amp circuits in lobby grid
 - (2) 20amp circuits on lobby floor
 - (3) 20amp circuits in green room and dressing rooms
 
-# Standard Outlets with Isolated Ground (5-20R "Edison")
+## Standard Outlets with Isolated Ground (5-20R "Edison")
 - (6) 20amp circuits in grid
 - (7) 20amp circuits on stage floor
 - (2) 20amp circuits in lobby grid
@@ -17,14 +17,14 @@
 Both above lists denote individual circuits/breakers, not numbers of outlets available. Some circuits have multiple outlets.
 
 
-# Company Switches
+## Company Switches
 - (2) 400amp Company Switch (one in mezzanine, one on stage floor)
 - (1) 100amp Company Switch with Isolated Ground (stage floor)
 
 Company Switches are a way to access large amounts of electrical power for equipment such as dimmer racks. Please consult the TD if you have equipment to connect to a Company Switch.
 
-# Extension Cords
+## Extension Cords
 Extension cords are stored in the black road case labeled `Extension Cords`. Cables are color-coded by length, see [Cable Color Code](cables.md#color-code). The road case is stored backstage near the alley doors.
 
-# Electrical Closet
+## Electrical Closet
 Most electrical breakers are located in the Electrical Closet backstage. It is only accessible to Voxel staff. Please ask the TD if a breaker is tripped.
