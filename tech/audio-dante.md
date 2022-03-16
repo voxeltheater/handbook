@@ -17,7 +17,7 @@ For example, input #5 on a Stage Box would show up as a Transmitter column. Chan
 
 Dante Controller can be run on multiple computers simutaneously. Any changes will automatically sync between them.
 
-## Using a computer as a Transmitter
+## Using a Mac as a Transmitter
 An application called [Dante Virtual Soundcard (DVS)](audio-dvs.md) can be used to take audio from a computer and send it out over the computer's Ethernet port as Dante. Once DVS is installed, navigate to `System Preferences`>`Sound`>`Output` and select Dante Virtual Soundcard from the list.
 
 DVS is [available from Audinate and costs $50](https://www.audinate.com/products/software/dante-virtual-soundcard), though a trial and shorter rental are available.
