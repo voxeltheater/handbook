@@ -12,7 +12,7 @@ There are (8) EtherCON connections available in the grid that are reserved for l
 ## Equipment
 
 ### Ethernet Switches
-All traffic on the Theatre network is routed through a pair of **Netgear M4300-52G-PoE+** switches. These switches can handle specialized bandwidth-intensive tasks such as NDI Video, as well as handling IP Audio such as Dante, sACN, and Art-Net.
+All traffic on the Theatre network is routed through a pair of **Netgear M4300-52G-PoE+** switches. These switches can handle specialized bandwidth-intensive tasks such as NDI Video, as well as handling IP Audio such as Dante, sACN, and Art-Net. PoE+ power is available on all ports.
 
 `ToDo: describe the configuration on Theatre network`
 
