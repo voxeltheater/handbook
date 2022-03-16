@@ -5,7 +5,7 @@ Traditionally, theatres required tons of audio cables, each of which connects on
 
 Dante is a digital replacement for all the infrastructure between the wall plug and the console. In a Dante system, the wall plug digitizes the signal from the microphone and sends it down an ethernet cable alongside dozens of other channels of audio. Ethernet switches connect these digitizing devices, referred to as `Stage Boxes`, together to form a network. When an audio mixing console is connected to the network, it can access all the inputs and outputs on all those stage boxes via a single ethernet cable.
 
-## Transmitters and Receivers
+### Transmitters and Receivers
 In Dante speak, an input into the network is called a `Transmitter` something that can accept that input is called a `Receiver`.
 
 ## Dante Controller
