@@ -25,7 +25,7 @@ Both above lists denote individual circuits/breakers, not numbers of outlets ava
 Company Switches are a way to access large amounts of electrical power for equipment such as dimmer racks. All our Company Switches have Cam-Type connections as well as lug terminals. There are no flipped grounds/neutrals. Please consult the TD if you have equipment to connect to a Company Switch.
 
 ## Extension Cords
-Extension cords are stored in the black road case labeled `Extension Cords`. Cables are color-coded by length, see [Cable Color Code](cables.md#color-code). The road case is stored backstage near the alley doors.
+Extension cords are stored in the black road case labeled `Extension Cords`. Cables are color-coded by length, see [Cable Color Code](cables.md#color-code). The road case is stored backstage near the roll door.
 
 ## Electrical Closet
 Most electrical breakers are located in the Electrical Closet backstage. It is only accessible to Voxel staff. Please ask the TD if a breaker is tripped.
