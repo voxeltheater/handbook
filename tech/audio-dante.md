@@ -18,7 +18,12 @@ For example, input #5 on a Stage Box would show up as a Transmitter column. Chan
 Dante Controller can be run on multiple computers simutaneously. Any changes will automatically sync between them.
 
 ## Using a computer as a Transmitter
-An application called [Dante Virtual Soundcard](audio-dvs.md) can be used to take audio from a computer and send it out over the computer's Ethernet port as Dante. Within Dante Controller, the Dante Virtual Soundcard Transmitter can be routed to any Dante Receiver on the network.
+An application called [Dante Virtual Soundcard (DVS)](audio-dvs.md) can be used to take audio from a computer and send it out over the computer's Ethernet port as Dante. Once DVS is installed, navigate to `System Preferences`>`Sound`>`Output` and select Dante Virtual Soundcard from the list.
+
+DVS is [available from Audiante and costs $50](https://www.audinate.com/products/software/dante-virtual-soundcard), though a trial and shorter rental are available.
+
+Within Dante Controller, the DVS Transmitter can be routed to any Dante Receiver on the network.
+
 
 ## Using an iPhone as a Transmitter
 For connecting an iPhone or other simple aux input to the sound system, we provide a [Radial DAN-TX2 Dante Interface](audio-dan-tx2.md). It has converts the analog signal from the device into Dante. It can be connected to any ethernet port in the building, just let the TD know which one you need!
