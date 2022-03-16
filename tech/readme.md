@@ -14,7 +14,8 @@ Guides on how to use the technical equipment and tools at The Voxel.
 - [Soundcraft Vi1 Sound Console](audio-console.md)
 - [Radial DAN-TX2 Dante Network Interface](audio-dan-tx2.md)
 - [d&b DS100](audio-ds100.md)
-- [Amplifiers](audio-amplifiers.md) ([d&b D20](audio-d20.md), [d&b 10D](audio-10d.md), [d&b DS10](audio-ds10.md)) 
+- [Amplifiers](audio-amplifiers.md) ([d&b D20](audio-d20.md), [d&b 10D](audio-10d.md), [d&b DS10](audio-ds10.md))
+- [Microphones](audio-mics.md)
 
 ### ✅ Lighting
 
