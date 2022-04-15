@@ -4,11 +4,11 @@ The Voxel itself has a growing API for OSC which allows you to control it from a
 
 This API is designed to integrate aspects of the building, such as HVAC and work lights, into your show's cue list. For example, you can turn down the lobby lights automatically when you run a top-of-show cue.
 
-The QLab OSC API can be used over UDP transport layer. The Voxel listens for incoming OSC on port 5333.
+* The QLab OSC API can be used over UDP transport layer. The Voxel listens for incoming OSC on port 5333 at IP 10.0.0.12 and
 
 ## Lighting
 
-### /voxel/lobby/walls {string}
+### /voxel/lobby/wallColor {string}
 Select the primary color of the lobby lighting. Available options are "red", "orange", "green", "blue", and "purple".
 
 ### /voxel/lobby/globes {number}
