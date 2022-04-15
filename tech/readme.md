@@ -6,6 +6,7 @@ Guides on how to use the technical equipment and tools at The Voxel.
 - [Cables](cables.md)
 - [Control Rack](rack.md)
 - [Tech Table](tech-table.md)
+- [OSC Dictionary](osc.md)
 
 ### Audio
 
