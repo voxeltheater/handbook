@@ -59,7 +59,7 @@ On XLR cables, the connector ring should be the same color as the electrical tap
 | Color | Length    |
 | ----- | --------- |
 | 1+    | 🟥 Red    |
-| 1-    | 🟩 Green  |
+| 1-    | 🟩 Green or 🟦 Blue  |
 | 2+    | ⬛️ Black |
 | 2-    | ⬜️ White |
 
