@@ -50,7 +50,7 @@ On XLR cables, the connector ring should be the same color as the electrical tap
 - Heat shrink labels are [Elite Core CUSTOM-SHRINK](https://elitecoreaudio.com/elite-core-custom-shrink-100pk/) black labels with white print. TODO: add the image files to use when ordering.
 - Clear heat shrink is 2:1 TODO add size of shrink
 - Electrical tape is TODO add tape source
-- A velcro cable wrap should be zip-tied to the cable on the same end as the heat shrink. 8" is an appropriate length for most cable lengths.
+- A hook-and-loop cable wrap should be affixed to the cable on the same end as the heat shrink. 8" is an appropriate length for most cable types. Use 10" for thicker 4-conductor speaker wire, and 12" for most extension cords.
 
 ### NL4 (speakON)
 
