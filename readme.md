@@ -45,8 +45,8 @@ The theater was built in 1946 and was a popular destination for moviegoers throu
 
 ### Staff
 
-- Kevin Sweetser, Technical Director - <kevin@voxel.org>
-- Alec Sparks, Assistant Technical Director - <alec@voxel.org>
+- Kevin Sweetser, Production Manager - <kevin@voxel.org>
+- Alec Sparks, Technical Director - <alec@voxel.org>
 - Christopher Ashworth, Owner - <chris@voxel.org>
 
 
