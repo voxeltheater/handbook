@@ -99,7 +99,7 @@ The Voxel does not have a dedicated parking lot, but there is ample street parki
 
 `[ToDo: map of street parking]`
 
-There is LIMITED parking for approximately 4 vehicles directly behind 2443 Maryland Avenue, which is the building directly across from the theater’s stage door. PLEASE DO NOT PARK behind any other building on Maryland Avenue; all other parking areas along the alley are reserved for the people who rent and own those row houses. Please be a good neighbor while you are here, and respect other people’s space.
+There is LIMITED parking for 4 vehicles in marked spaces near the stage door. PLEASE DO NOT PARK behind any other building on Maryland Avenue; all other parking areas along the alley are reserved for the people who rent and own those row houses. Please be a good neighbor while you are here, and respect other people’s space.
 
 `[ToDo: photo of parking lot]`
 
