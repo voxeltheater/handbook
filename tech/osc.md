@@ -22,3 +22,12 @@ Set the intensity of the specials focused on the restroom signage in the lobby. 
 
 ### /voxel/ramp/globes {number}
 Set the intensity of the hanging globe light at the bottom of the ramp. Range is 0-100.
+
+## Sound
+
+### /voxel/lobby/volume
+Set the gain of the lobby speakers. Range is -120-10. 
+
+### /voxel/pcdi/enable
+Un-mutes the PCDI input into the sound system.
+
