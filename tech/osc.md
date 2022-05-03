@@ -4,7 +4,7 @@ The Voxel itself has a growing API for OSC, allowing you to control it from any 
 
 This API is designed to integrate aspects of the building, such as HVAC and work lights, into your show's cue list. For example, you can turn down the lobby lights automatically when you run a top-of-show cue.
 
-*The QLab OSC API can be used over UDP transport layer. The Voxel listens for incoming OSC at `voxel.local:5333`*
+*The Voxel OSC API must be used over UDP transport layer. The Voxel listens for incoming OSC at `voxel.local:5333`*
 
 ## Lighting
 
