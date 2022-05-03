@@ -23,6 +23,9 @@ Set the intensity of the specials focused on the restroom signage in the lobby. 
 ### /voxel/ramp/globes {number}
 Set the intensity of the hanging globe light at the bottom of the ramp. Range is 0-100.
 
+### /voxel/stage/runningLights {number}
+Set the intensity of the blue running lights backstage. Range is 0-100.
+
 ## Sound
 
 ### /voxel/lobby/volume
