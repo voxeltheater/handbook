@@ -1,6 +1,6 @@
 # OSC Dictionary
 
-The Voxel itself has a growing API for OSC which allows you to control it from any device or software which can broadcast OSC messages. What follows here is a complete dictionary of The Voxel’s OSC implementation.
+The Voxel itself has a growing API for OSC, allowing you to control it from any device or software which can send OSC messages. What follows here is a complete dictionary of The Voxel’s OSC implementation.
 
 This API is designed to integrate aspects of the building, such as HVAC and work lights, into your show's cue list. For example, you can turn down the lobby lights automatically when you run a top-of-show cue.
 
