@@ -14,5 +14,11 @@ Select the primary color of the lobby lighting. Available options are "red", "or
 ### /voxel/lobby/globes {number}
 Set the intensity of the hanging globe lights in the lobby. Range is 0-100.
 
+### /voxel/lobby/specials {number}
+Set the intensity of the specials focused on the tables on he lobby. Range is 0-100.
+
+### /voxel/lobby/restrooms {number}
+Set the intensity of the specials focused on the restroom signage in the lobby. Range is 0-100.
+
 ### /voxel/ramp/globes {number}
 Set the intensity of the hanging globe light at the bottom of the ramp. Range is 0-100.
