@@ -34,6 +34,9 @@ Set the gain of the lobby speakers. Range is -120-10.
 ### /voxel/pcdi/enable
 Un-mutes the PCDI input into the sound system.
 
+### /voxel/pcdi/disable
+Mutes the PCDI input into the sound system.
+
 ### /voxel/pcdi/volume
 Set the gain of the PCDI input into the sound system. Range is -120-24. 
 
