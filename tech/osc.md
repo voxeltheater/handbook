@@ -6,7 +6,9 @@ This API is designed to integrate aspects of the building, such as HVAC and work
 
 *The Voxel OSC API must be used over UDP transport layer. The Voxel listens for incoming OSC at `voxel.local:5333`*
 
-## Lighting
+# Lighting
+
+## Lobby
 
 ### /voxel/lobby/wallColor {string}
 Select the primary color of the lobby lighting. Available options are "red", "orange", "green", "blue", and "purple".
@@ -14,19 +16,21 @@ Select the primary color of the lobby lighting. Available options are "red", "or
 ### /voxel/lobby/globes {number}
 Set the intensity of the hanging globe lights in the lobby. Range is 0-100.
 
-### /voxel/lobby/specials {number}
-Set the intensity of the specials focused on the tables on he lobby. Range is 0-100.
-
 ### /voxel/lobby/restrooms {number}
 Set the intensity of the specials focused on the restroom signage in the lobby. Range is 0-100.
+
+### /voxel/lobby/signal
+Trigger a lighting flash in the lobby. Designed to indicate to audiences that it's time to move to the theatre.
 
 ### /voxel/ramp/globes {number}
 Set the intensity of the hanging globe light at the bottom of the ramp. Range is 0-100.
 
+## Stage
+
 ### /voxel/stage/runningLights {number}
 Set the intensity of the blue running lights backstage. Range is 0-100.
 
-## Sound
+# Sound
 
 ### /voxel/lobby/volume
 Set the gain of the lobby speakers. Range is -120-10. 
