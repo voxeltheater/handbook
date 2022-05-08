@@ -11,7 +11,7 @@ This API is designed to integrate aspects of the building, such as HVAC and work
 ## Lobby
 
 ### /voxel/lobby/wallColor {string}
-Select the primary color of the lobby lighting. Available options are "red", "orange", "green", "blue", and "purple".
+Select the primary color of the lobby lighting. Available options are "red", "orange", "green", "blue", "purple", and "off".
 
 ### /voxel/lobby/globes {number}
 Set the intensity of the hanging globe lights in the lobby. Range is 0-100.
