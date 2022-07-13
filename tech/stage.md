@@ -6,6 +6,6 @@ The wooden deck structure is built within a recess in the floor slab. The struct
 The plywood is screwed to 1.5" tall furring strips which are screwed to the slab.
 
 ### Finish
-The standard deck paint is Royal Interior Eggshell, tinted Black Onyx. It's available at the local Ace Hardware for around $35/gallon. A single coat of the deck takes 2.5 gallons. We require all productions that wish to paint the deck to restore it afterwards using this paint.
+The standard deck paint is *Royal Interior Eggshell, tinted Black Onyx*. It's available at the local Ace Hardware for around $35/gallon. A single coat of the deck takes 2.5 gallons. We require all productions that wish to paint the deck to restore it afterwards using this paint.
 
 The surrounding walls and concrete MAY NOT be painted.
