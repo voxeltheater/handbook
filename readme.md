@@ -1,11 +1,5 @@
 # The Voxel Handbook
 
-This manual is a very early first draft of a User Manual for the Voxel Theater. It will eventually be translated into a PDF document with proper formatting and fonts.
-
-This document is intended to be edited easily, refined collaboratively, and iterated upon quickly. We expect it to take time and many revisions.
-
-The overall goal of this user manual is to write thorough and friendly documentation for the building. Similarly to writing documentation for a product like QLab, the documentation for the building should allow both beginners and experts to educate themselves about the space at the level of detail they need.
-
 ### Handbook
 
 - [Introduction](#introduction)
