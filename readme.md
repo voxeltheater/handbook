@@ -52,13 +52,13 @@ The theater was built in 1946 and was a popular destination for moviegoers throu
 
 # Please And Thank You
 
-- Please do not drive the scissor lift on the ramp. The ramp is not rated to hold the lift!
+- Please do not drive the scissor lift on the ramp. The ramp is not designed to hold the lift!
 - Please do not drink and operate machinery or equipment.
 - Please do not tape, nail, screw, or otherwise attach anything to any wall without consulting with Voxel staff first.
 - Please do not paint any concrete floor.
 - Please clean up all food waste throughout the theater.
 - Please use street parking or within the painted parking lot behind 2443 Maryland.
-- Please park the scissor lift where it can be retrieved. Please do not store material on the lift or in such a way as to block it in.
+- Please park the scissor lift in the designated spot and do not block it in.
 - Please supply a contact list and rehearsal schedule to Voxel staff as soon as possible as you begin production.
 
 
